@@ -1,1 +1,10 @@
-
+#thingy {
+	background-color: red;
+    width: 100px;
+    height: 100px;
+    color: red;
+    padding: 0px;
+    position: absolute;
+    top: 140px;
+    left: 40px;
+}
